@@ -9,7 +9,7 @@ Trading 212 Swap Fees
  | |__| (_| | | (__| |_| | | (_| | || (_) | |     
   \____\__,_|_|\___|\__,_|_|\__,_|\__\___/|_|    
   
-by Steve Lithium                               
+by Marco Casanova                               
 
 
 """
